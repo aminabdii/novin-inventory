@@ -2,7 +2,8 @@ import "./App.css";
 import Layout from "./components/Layout/Layout";
 import Navbar from "./components/Navbar/Navbar";
 import ProductsList from "./components/ProductsList/ProductsList";
-import CategoryForm from "./components/categoryForm/categoryForm";
+import CategoryForm from "./components/categoryForm/CategoryForm";
+
 import ProductForm from "./components/productForm/ProductForm";
 import CategoryProvider from "./contexts/CategoryContext/CategoryProvider";
 import FilterProductsProvider from "./contexts/FilterProductsProvider/FilterProductsProvider";
